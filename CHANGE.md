@@ -1,5 +1,7 @@
 jWebDriver change log
 ====================
+## branch v2.2.6
+1. Other: back up version 2.2.6
 
 ## ver 2.2.6 (2018-5-30)
 
